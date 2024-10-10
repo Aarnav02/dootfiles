@@ -1,0 +1,9 @@
+waypaper
+hyprland 
+hyprpaper
+waybar 
+rofi 
+dunstify
+brightnessctl
+any nf
+
